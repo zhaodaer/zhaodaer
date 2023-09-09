@@ -1,4 +1,4 @@
-### Hi there 👋
+###  Hello, I'm zhaodaer. I do open source!👋
 
 <!--
 **zhaodaer/zhaodaer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,16 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello, I'm Anurag. I do open source!
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+
 
 About me
 
-💼 FrontEnd Engineer at Razorpay
+💼 XXX Engineer at XXX
 
-📈 Built github-readme-stats, verlyjs and more, 50m+ hits • 50K stars on GitHub
+📈 
 
-❤️ I love writing TypeScript, and building fun experiments on type-level
+❤️ I love 
 
 💬 Ask me about anything here
 
