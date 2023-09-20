@@ -25,15 +25,12 @@ Embedded software development.
 
 MCU development, Linux drivers, applications, framework design ideas, etc.
 
+❤️ I love 
+
 📫 How to reach me:
 
 If you have any questions, you can contact me by adding WeChat: 
 
-📈 
-
-❤️ I love 
-
-💬 Ask me about anything here
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
