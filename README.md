@@ -15,18 +15,7 @@
 * <a href='https://flyalready.cn/Warp-terminal/' target='_blank'>Mac 生产力软件+1：Warp 终端</a> - 2024-03-29
 <!-- END_SECTION:blog -->
 
-### 豆瓣:
 
-<img align="right" width="100" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
-
-
-<!-- START_SECTION:douban -->
-* <a href='http://movie.douban.com/subject/35196946/' target='_blank'>看过三体 第一季</a> 🌟🌟🌟☆☆ 还行- 2024-03-22
-* <a href='http://movie.douban.com/subject/36081094/' target='_blank'>看过热辣滚烫</a> 🌟🌟☆☆☆ 较差- 2024-02-12
-* <a href='http://movie.douban.com/subject/36538847/' target='_blank'>看过泰勒·斯威夫特：时代巡回演唱会</a> 🌟🌟🌟🌟🌟 力荐- 2024-01-29
-* <a href='http://movie.douban.com/subject/35575567/' target='_blank'>想看沙丘2</a> - 2023-12-22
-* <a href='http://movie.douban.com/subject/34438298/' target='_blank'>看过饥饿游戏：鸣鸟与蛇之歌</a> 🌟🌟🌟🌟☆ 推荐- 2023-12-03
-<!-- END_SECTION:douban -->
 
 
 <div align="center" >
